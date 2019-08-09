@@ -82,9 +82,9 @@
                             </p>
                             
                                 <blockquote>
-                                    <h4 style="margin-right: 320px">نسب نجاح العلاج </h4>
-                                   <p style="margin-right: 120px">"تتميز دار التعافي بنسب نجاح في العلاج بما يتماشى مع نسب النجاح العالمية"</p><br>
-                                   <div style="margin-left: 140px" class="clearfix">
+                                    <h4 class="medperh">نسب نجاح العلاج </h4>
+                                   <p  class="medperp">"تتميز دار التعافي بنسب نجاح في العلاج بما يتماشى مع نسب النجاح العالمية"</p><br>
+                                   <div class="clearfix medperdiv">
                                         <div class="c100 p86">
                                         <span>86%</span>
                                         <div class="slice">

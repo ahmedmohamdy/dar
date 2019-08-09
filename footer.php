@@ -101,15 +101,15 @@
                             <div class="border-style-2"></div>
                           </div>
                           <div class="flicker-feed gutter">
-                            <a href="#"><img src="img\out1.jpeg" alt=""></a>
-                            <a href="#"><img src="img\out2.jpeg" alt=""></a>
-                            <a href="#"><img src="img\out3.jpeg" alt=""></a>
-                            <a href="#"><img src="img\r1.jpeg" alt=""></a>
-                            <a href="#"><img src="img\r2.jpeg" alt=""></a>
-                            <a href="#"><img src="img\in1.jpeg" alt=""></a>
-                            <a href="#"><img src="img\in2.jpeg" alt=""></a>
-                            <a href="#"><img src="img\in3.jpeg" alt=""></a>
-                            <a href="#"><img src="img\in4.jpeg" alt=""></a>
+                            <a href="#"><img src="img\footer\out1.jpg" alt=""></a>
+                            <a href="#"><img src="img\footer\out2.jpg" alt=""></a>
+                            <a href="#"><img src="img\footer\out3.jpg" alt=""></a>
+                            <a href="#"><img src="img\footer\r1.jpg" alt=""></a>
+                            <a href="#"><img src="img\footer\r2.jpg" alt=""></a>
+                            <a href="#"><img src="img\footer\in1.jpg" alt=""></a>
+                            <a href="#"><img src="img\footer\in2.jpg" alt=""></a>
+                            <a href="#"><img src="img\footer\in3.jpg" alt=""></a>
+                            <a href="#"><img src="img\footer\in4.jpg" alt=""></a>
 
                             <!-- <a href="img\flicker\8.jpg" class="lightbox-image" title="Image Caption Here"><img src="img\flicker\8.jpg" alt=""></a> -->
                           </div>
